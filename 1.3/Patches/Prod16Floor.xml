@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>*/TerrainDef[@Name = "TileStoneBase"]/statBases/Beauty</xpath>
+    <value>
+      <Beauty>2</Beauty>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>*/TerrainDef[defName = "MetalTile"]/statBases/Beauty</xpath>
+    <value>
+      <Beauty>2</Beauty>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>*/TerrainDef[defName = "WoodPlankFloor"]/statBases</xpath>
+    <value>
+      <Beauty>1</Beauty>
+    </value>
+  </Operation>
+</Patch>

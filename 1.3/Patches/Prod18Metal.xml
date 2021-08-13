@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>*/RecipeDef[defName = "ExtractMetalFromSlag"]/workAmount</xpath>
+    <value>
+      <workAmount>800</workAmount>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>*/RecipeDef[defName = "ExtractMetalFromSlag"]/products</xpath>
+    <value>
+      <products>
+        <Steel>24</Steel>
+      </products>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>*/RecipeDef[defName = "Make_ComponentIndustrial"]/workAmount</xpath>
+    <value>
+      <workAmount>2500</workAmount>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>*/RecipeDef[defName = "Make_ComponentSpacer"]/workAmount</xpath>
+    <value>
+      <workAmount>5000</workAmount>
+    </value>
+  </Operation>
+</Patch>

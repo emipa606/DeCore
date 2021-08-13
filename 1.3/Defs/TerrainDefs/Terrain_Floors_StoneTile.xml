@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef Abstract="True" ParentName="FloorBase" Name="TileStoneBase2">
+    <renderPrecedence>220</renderPrecedence>
+    <description>Refined, carefully-cut stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay. Old.</description>
+    <texturePath>Other/TileStone2</texturePath>
+    <statBases>
+      <WorkToBuild>1100</WorkToBuild>
+      <Beauty>2</Beauty>
+    </statBases>
+    <designatorDropdown>Floor_SandstoneOld</designatorDropdown>
+  </TerrainDef>
+  <TerrainDef ParentName="TileStoneBase2">
+    <defName>TileSandstoneOld</defName>
+    <label>sandstone tile old</label>
+    <color>(126,104,94)</color>
+    <costList>
+      <BlocksSandstone>4</BlocksSandstone>
+    </costList>
+  </TerrainDef>
+  <TerrainDef ParentName="TileStoneBase2">
+    <defName>TileGraniteOld</defName>
+    <label>granite tile old</label>
+    <color>(105,95,97)</color>
+    <costList>
+      <BlocksGranite>4</BlocksGranite>
+    </costList>
+  </TerrainDef>
+  <TerrainDef ParentName="TileStoneBase2">
+    <defName>TileLimestoneOld</defName>
+    <label>limestone tile old</label>
+    <color>(158,153,135)</color>
+    <costList>
+      <BlocksLimestone>4</BlocksLimestone>
+    </costList>
+  </TerrainDef>
+  <TerrainDef ParentName="TileStoneBase2">
+    <defName>TileSlateOld</defName>
+    <label>slate tile old</label>
+    <color>(75,75,75)</color>
+    <costList>
+      <BlocksSlate>4</BlocksSlate>
+    </costList>
+  </TerrainDef>
+  <TerrainDef ParentName="TileStoneBase2">
+    <defName>TileMarbleOld</defName>
+    <label>marble tile old</label>
+    <color>(132,135,132)</color>
+    <costList>
+      <BlocksMarble>4</BlocksMarble>
+    </costList>
+  </TerrainDef>
+</Defs>

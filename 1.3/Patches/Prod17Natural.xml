@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "SteamGeyser"]/destroyable</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>*/ThingDef[defName = "SteamGeyser"]/building/deconstructible</xpath>
+  </Operation>
+</Patch>
