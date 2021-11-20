@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>DeCore (Continued)</name>
   <packageId>Mlie.DeCore</packageId>
@@ -12,13 +12,13 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Daniledmans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=951016023
 
 - Replaced the last overwrites with patches instead
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/CN9Rs5X.png[/img]
 
 [table]
     [tr]
@@ -27,17 +27,17 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=951016023
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 DeCore brings in a lot of changes in game mechanics, so the player have to think differently and use new colony development strtegy.
 The mod makes the game significantly more comfortable to play and some of its aspects - more logical. The mod changes resources, apparel and production.
 The majority of changes were made using patches, so the chance of incompatibility with other mods is very low.
 This mod is the pack of small enhancements and adjustments that make the game better. Most of them were made by me; some were taken from other mods.
 DeCore may become an indispensable part of the game for someone. Perhaps, it will serve as base for many modpacks. Will see)
-[url=http://steamcommunity.com/workshop/filedetails/discussion/951016023/2333276539612061574/][h1][b][u] &gt;&gt;&gt; FULL DESCRIPTION &lt;&lt;&lt; [/u][/b][/h1][/url]
+[url=http://steamcommunity.com/workshop/filedetails/discussion/951016023/2333276539612061574/][h1][b][u]  FULL DESCRIPTION  [/u][/b][/h1][/url]
 
 [b][u]If you want to remove the reception of hay from grass and tall grass, delete this file:
 
-YOURSTEAM \ steamapps \ workshop \ content \ 294100 \ 951016023 \ Patches \ Prod14grassDELETE.xml&quot; [/u][/b]
+YOURSTEAM \ steamapps \ workshop \ content \ 294100 \ 951016023 \ Patches \ Prod14grassDELETE.xml" [/u][/b]
 
 List of changes (briefly):
 
@@ -57,7 +57,7 @@ Hydroponics basin 1x5, , improved hydroponics textures
 Hidden power conduit
 
 
-Mod is compatible with your old saves and don&apos;t require new game.
+Mod is compatible with your old saves and don't require new game.
 Special thanks: Hrosts
 
 B19 non-steam link: https://drive.google.com/open?id=1jpivaSwmHyctVtx9dek5M8Tm0cXHXKJr
@@ -67,7 +67,7 @@ DeCore вносит множество изменений в механику и
 Большинство изменений создано с помощью патчей, а значит, вероятность конфликта с другими модами крайне мала.
 Этот мод является сборником мелких поправок, значительно улучшающих игру, большую часть которых я придумал сам, некоторые заимствовал из других модов.
 Для кого-то DeCore станет незаменимым, возможно он будет важной составной частью каждой сборки модов. Посмотрим))
-[url=http://steamcommunity.com/workshop/filedetails/discussion/951016023/2333276539612064315/][h1][b][u] &gt;&gt;&gt; ПОЛНОЕ ОПИСАНИЕ &lt;&lt;&lt; [/u][/b][/h1][/url]
+[url=http://steamcommunity.com/workshop/filedetails/discussion/951016023/2333276539612064315/][h1][b][u]  ПОЛНОЕ ОПИСАНИЕ  [/u][/b][/h1][/url]
 
 Список изменений (кратко):
 
@@ -89,7 +89,7 @@ DeCore вносит множество изменений в механику и
 Мод совместим со старыми сохранениями и не требует новой игры..
 Бгагодарности: Hrosts
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -100,4 +100,3 @@ DeCore вносит множество изменений в механику и
 [/list]
 </description>
 </ModMetaData>
-

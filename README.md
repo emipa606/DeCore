@@ -1,28 +1,28 @@
 # DeCore
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Daniledmans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=951016023
 
 - Replaced the last overwrites with patches instead
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/CN9Rs5X.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 DeCore brings in a lot of changes in game mechanics, so the player have to think differently and use new colony development strtegy.
 The mod makes the game significantly more comfortable to play and some of its aspects - more logical. The mod changes resources, apparel and production.
 The majority of changes were made using patches, so the chance of incompatibility with other mods is very low.
 This mod is the pack of small enhancements and adjustments that make the game better. Most of them were made by me; some were taken from other mods.
 DeCore may become an indispensable part of the game for someone. Perhaps, it will serve as base for many modpacks. Will see)
-http://steamcommunity.com/workshop/filedetails/discussion/951016023/2333276539612061574/]# **[u] &gt;&gt;&gt; FULL DESCRIPTION &lt;&lt;&lt; [/u]**
+http://steamcommunity.com/workshop/filedetails/discussion/951016023/2333276539612061574/]# **[u]  FULL DESCRIPTION  [/u]**
 
 
 **[u]If you want to remove the reception of hay from grass and tall grass, delete this file:
 
-YOURSTEAM \ steamapps \ workshop \ content \ 294100 \ 951016023 \ Patches \ Prod14grassDELETE.xml&quot; [/u]**
+YOURSTEAM \ steamapps \ workshop \ content \ 294100 \ 951016023 \ Patches \ Prod14grassDELETE.xml" [/u]**
 
 List of changes (briefly):
 
@@ -42,7 +42,7 @@ Hydroponics basin 1x5, , improved hydroponics textures
 Hidden power conduit
 
 
-Mod is compatible with your old saves and don&apos;t require new game.
+Mod is compatible with your old saves and don't require new game.
 Special thanks: Hrosts
 
 B19 non-steam link: https://drive.google.com/open?id=1jpivaSwmHyctVtx9dek5M8Tm0cXHXKJr
@@ -52,7 +52,7 @@ DeCore вносит множество изменений в механику и
 Большинство изменений создано с помощью патчей, а значит, вероятность конфликта с другими модами крайне мала.
 Этот мод является сборником мелких поправок, значительно улучшающих игру, большую часть которых я придумал сам, некоторые заимствовал из других модов.
 Для кого-то DeCore станет незаменимым, возможно он будет важной составной частью каждой сборки модов. Посмотрим))
-http://steamcommunity.com/workshop/filedetails/discussion/951016023/2333276539612064315/]# **[u] &gt;&gt;&gt; ПОЛНОЕ ОПИСАНИЕ &lt;&lt;&lt; [/u]**
+http://steamcommunity.com/workshop/filedetails/discussion/951016023/2333276539612064315/]# **[u]  ПОЛНОЕ ОПИСАНИЕ  [/u]**
 
 
 Список изменений (кратко):
@@ -75,7 +75,7 @@ http://steamcommunity.com/workshop/filedetails/discussion/951016023/233327653961
 Мод совместим со старыми сохранениями и не требует новой игры..
 Бгагодарности: Hrosts
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
