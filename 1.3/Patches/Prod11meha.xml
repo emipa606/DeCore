@@ -3,43 +3,43 @@
   <Operation Class="PatchOperationAdd">
     <xpath>*/ThingDef[defName = "Mech_Centipede"]/butcherProducts</xpath>
     <value>
-      <Uranium>15</Uranium>
-      <Gold>8</Gold>
+      <Uranium>8</Uranium>
+      <Gold>4</Gold>
     </value>
   </Operation>
-  <Operation Class="PatchOperationAdd">
-    <xpath>*/ThingDef[defName = "Mech_Lancer"]</xpath>
-    <value>
-      <butcherProducts>
+  <!--Operation Class="PatchOperationAdd">
+	  <xpath>*/ThingDef[defName = "Mech_Lancer"]</xpath>
+	  <value>
+	  <butcherProducts>
         <Steel>20</Steel>
         <Plasteel>5</Plasteel>
-        <Uranium>6</Uranium>
-        <Gold>3</Gold>
+	    <Uranium>6</Uranium>
+	    <Gold>3</Gold>
         <ComponentIndustrial>1</ComponentIndustrial>
-      </butcherProducts>
-    </value>
-  </Operation>
-  <Operation Class="PatchOperationAdd">
-    <xpath>*/ThingDef[defName = "Mech_Scyther"]</xpath>
-    <value>
-      <butcherProducts>
+    </butcherProducts>
+	  </value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+	  <xpath>*/ThingDef[defName = "Mech_Scyther"]</xpath>
+	  <value>
+	  <butcherProducts>
         <Steel>20</Steel>
         <Plasteel>5</Plasteel>
-        <Uranium>6</Uranium>
-        <Gold>3</Gold>
+	    <Uranium>6</Uranium>
+	    <Gold>3</Gold>
         <ComponentIndustrial>1</ComponentIndustrial>
-      </butcherProducts>
-    </value>
-  </Operation>
+    </butcherProducts>
+	  </value>
+	</Operation-->
   <Operation Class="PatchOperationAdd">
     <xpath>*/ThingDef[defName = "Mech_Pikeman"]</xpath>
     <value>
       <butcherProducts>
-        <Steel>25</Steel>
-        <Plasteel>7</Plasteel>
-        <Uranium>7</Uranium>
+        <Steel>15</Steel>
+        <Plasteel>3</Plasteel>
+        <Uranium>3</Uranium>
         <Gold>3</Gold>
-        <ComponentIndustrial>1</ComponentIndustrial>
       </butcherProducts>
     </value>
   </Operation>

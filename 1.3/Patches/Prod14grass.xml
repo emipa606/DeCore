@@ -37,10 +37,10 @@
       </sowTags>
     </value>
   </Operation>
-  <Operation Class="PatchOperationAdd">
-    <xpath>*/ThingDef[thingClass = "Pawn"]/statBases</xpath>
-    <value>
-      <SellPriceFactor>1.5</SellPriceFactor>
-    </value>
-  </Operation>
+  <!--Operation Class="PatchOperationAdd">
+	  <xpath>*/ThingDef[thingClass = "Pawn"]/statBases</xpath>
+	  <value>
+<SellPriceFactor>1.5</SellPriceFactor>
+	  </value>
+	</Operation-->
 </Patch>

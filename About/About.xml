@@ -2,32 +2,34 @@
 <ModMetaData>
   <name>DeCore (Continued)</name>
   <packageId>Mlie.DeCore</packageId>
-  <author>Daniledman</author>
+  <author>DaLLaN</author>
   <url>https://github.com/emipa606/DeCore</url>
   <supportedVersions>
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
     <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
   <description>[img]https://i.imgur.com/buuPQel.png[/img]
-Update of Daniledmans mod
-https://steamcommunity.com/sharedfiles/filedetails/?id=951016023
+Update of DaLLaNs mod https://steamcommunity.com/sharedfiles/filedetails/?id=951016023
 
-- Replaced the last overwrites with patches instead
-
-[img]https://i.imgur.com/CN9Rs5X.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
+    [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/DeCore][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
     [tr]
-        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
-        [td][url=https://github.com/emipa606/DeCore][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
     [/tr]
 [/table]
 	
 [img]https://i.imgur.com/Z4GOv8H.png[/img]
+
 DeCore brings in a lot of changes in game mechanics, so the player have to think differently and use new colony development strtegy.
 The mod makes the game significantly more comfortable to play and some of its aspects - more logical. The mod changes resources, apparel and production.
 The majority of changes were made using patches, so the chance of incompatibility with other mods is very low.
@@ -48,7 +50,6 @@ Buildings changes
 Smart colonists.
 Resource rebalance.
 Skills rework
-More resources from mechanoid disassembly
 More growables
 Selling animals
 Smaller paste dispenser
@@ -59,8 +60,6 @@ Hidden power conduit
 
 Mod is compatible with your old saves and don't require new game.
 Special thanks: Hrosts
-
-B19 non-steam link: https://drive.google.com/open?id=1jpivaSwmHyctVtx9dek5M8Tm0cXHXKJr
 ________________________________________
 DeCore вносит множество изменений в механику игры, побуждая игрока думать иначе и использовать новую стратегию развития колонии.
 Мод делает игру значительно удобнее, а некоторые ее аспекты логичнее. Мод изменяет ресурсы, постройки, одежду, производство.
@@ -93,10 +92,13 @@ DeCore вносит множество изменений в механику и
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
-[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list]
-</description>
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2573732545][img]https://img.shields.io/github/v/release/emipa606/DeCore?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
 </ModMetaData>

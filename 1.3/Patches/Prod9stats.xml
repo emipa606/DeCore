@@ -52,12 +52,12 @@
 	  </value>
 	</Operation-->
   <Operation Class="PatchOperationAdd">
-    <xpath>*/StatDef[defName = "SmeltingSpeed"]</xpath>
+    <xpath>*/StatDef[defName = "GeneralLaborSpeed"]</xpath>
     <value>
       <skillNeedFactors>
         <li Class="SkillNeed_BaseBonus">
           <skill>Crafting</skill>
-          <baseValue>0.9</baseValue>
+          <baseValue>1</baseValue>
           <bonusPerLevel>0.03</bonusPerLevel>
         </li>
       </skillNeedFactors>
